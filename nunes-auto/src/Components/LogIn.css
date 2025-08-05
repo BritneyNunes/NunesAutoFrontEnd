@@ -1,0 +1,39 @@
+body{
+    background-image: linear-gradient(blue, black);
+}
+.LGheading{
+    font-size: 27px;
+    display: block;
+}
+hr{
+   width: 80%;
+   color: white;
+}
+#LGlabel{
+    margin: 0.7vh;
+    display: block;
+    font-size: 19px;
+}
+#LGinput{
+    height: 4vh;
+    width: 25vw;
+    text-align: center;
+    margin-left: 2vw;
+}
+.LGformContainer{
+    border: 2px solid white;
+    border-radius: 15px;
+    margin-left: 33vw;
+    width: 36vw;
+    height: 85vh;
+    text-align: center;
+}
+
+.LGbutton{
+    margin: 3vh 13vw ;
+    display: block;
+    height: 10h;
+    width: 10vw;
+    /* margin: auto ; */
+    background-color: rgb(6, 131, 220);
+}

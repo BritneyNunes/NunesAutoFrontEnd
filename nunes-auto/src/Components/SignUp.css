@@ -1,0 +1,48 @@
+body{
+    background-image: linear-gradient(blue, black);
+}
+.heading{
+    font-size: 27px;
+    display: block;
+}
+hr{
+   width: 80%;
+   color: white;
+}
+#label{
+    margin: 0.7vh;
+    display: block;
+    font-size: 19px;
+}
+#input{
+    height: 4vh;
+    width: 25vw;
+    text-align: center;
+    margin-left: 2vw;
+}
+.formContainer{
+    border: 2px solid white;
+    border-radius: 15px;
+    margin-left: 33vw;
+    width: 36vw;
+    height: 97vh;
+    text-align: center;
+}
+#female{
+    width: 4vw;
+}
+#male{
+    width: 4vw;
+}
+#gender{
+    width: 4vw;
+
+}
+.button{
+    margin: 3vh 12vw ;
+    display: block;
+    height: 10h;
+    width: 10vw;
+    /* margin: auto ; */
+    background-color: rgb(6, 131, 220);
+}
